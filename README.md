@@ -1,6 +1,8 @@
-# Portfolio c.e.f
+# Portfolio C.E.F
 
-This template should help get you started developing with Vue 3 in Vite.
+Projet réalisé par Blaise Zinou dans le cadre de la formation au Centre Européen de Formation.
+
+Ce portfolio, développé avec Vue 3 et Vite, permet de présenter mes projets personnels, un formulaire de contact fonctionnel, une page 404 personnalisée, et respecte les bonnes pratiques d’accessibilité et de responsive design.
 
 ## Recommended IDE Setup
 
@@ -27,3 +29,17 @@ npm run dev
 ```sh
 npm run build
 ```
+
+## Fonctionnalités principales
+
+- Page d’accueil avec présentation et liste de projets
+- Modal dynamique affichant les détails d’un projet
+- Formulaire de contact fonctionnel
+- Page 404 personnalisée
+- Design responsive et accessibilité
+
+## Auteur
+
+Blaise Zinou  
+Centre Européen de Formation  
+Mai 2025
